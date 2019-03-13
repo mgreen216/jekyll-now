@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I curently teach Data Analysis & Interpretation in the Goodwin College. I also serve as the Associate Director, Assessment for the College of Nursing and Health Professions both roles are at Drexel University. 
 
-### More Information
+### Why Data Analysis & Interpretation?
 
-A place to include any other types of information that you'd like to include about yourself.
+Data is fascinating! It can give us insight into questions, provide us a new way of thinking about a problem, and help us be a consumer of research and information. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mdg83@drexel.edu](mailto:mdg83@drexel.edu)
